@@ -52,10 +52,3 @@ The bot is launched from the root of the project:
 node main.js
 ```
 You can use Heroku for this, the Procfile file is created and configured.
-
-## License
-
-MIT
-
-[![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/e1on)
-[![Discord](https://discordapp.com/api/guilds/509065700401348630/widget.png)](http://discord.gg/fTHssTP)
